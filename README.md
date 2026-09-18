@@ -1,5 +1,4 @@
 # AsymmetricVAD
-[Project Page](https://github.com/HFUT-CV/AsymmetricVAD)
 
 This repository contains the code for our paper.
 
