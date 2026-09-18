@@ -8,7 +8,6 @@ The code is coming soon.
 
 ## Installation
 
-The code is coming soon.
 
 ### Requirements
 1. Python 3.7 
