@@ -7,6 +7,7 @@ This repository contains the code for our paper.
 The code is coming soon.
 
 ## Installation
+git clone https://github.com/HFUT-CV/AsymmetricVAD.git
 
 ### Requirements
 1. Python 3.7 
