@@ -5,7 +5,17 @@ A weakly supervised Video Anomaly Detection model. It achieves frame-level anoma
 ## Supported Datasets
 
 - **XD-Violence**: https://roc-ng.github.io/XD-Violence/ (7 classes, including normal/fighting/shooting/riot/abuse/car accident/explosion)
-- **TMVAD**: XXXX (multimodal video, subtitles, and audio, 22 classes)
+- **TMVAD**: A multimodal video anomaly detection dataset with video, subtitles, and audio, covering 22 classes. The categories are organized into four groups as follows:
+
+  | Group | Classes | No. of Subclasses |
+  | --- | --- | --- |
+  | Traffic incidents | car accidents, red-light violation | 2 |
+  | Violent & disruptive behavior | fighting, disorderly conduct, quarrelling, robbery, shooting, police assault | 6 |
+  | Public-safety hazards | fire, explosion, natural disaster, animal injury, high-altitude hazard, equipment malfunction | 6 |
+  | Personal emergencies & offenses | falls, drowning, self-harm, child trafficking, fence climbing, chasing, theft, indecent assault | 8 |
+
+  > **Note**: If the download link becomes unavailable, please contact **252781411@qq.com**.
+
 
 ## Environment Dependencies
 
