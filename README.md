@@ -16,7 +16,7 @@ A weakly supervised Video Anomaly Detection model. It achieves frame-level anoma
   | Public-safety hazards | fire, explosion, natural disaster, animal injury, high-altitude hazard, equipment malfunction | 6 |
   | Personal emergencies & offenses | falls, drowning, self-harm, child trafficking, fence climbing, chasing, theft, indecent assault | 8 |
 
-  > **Note**: If the download link becomes unavailable, please contact **252781411@qq.com**.
+  > **Note**: If the download link becomes unavailable, please contact **XXXX**.
 
 
 ## Environment Dependencies
