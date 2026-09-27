@@ -4,8 +4,8 @@ A weakly supervised Video Anomaly Detection model. It achieves frame-level anoma
 
 ## Supported Datasets
 
-- **XD-Violence**: https://roc-ng.github.io/XD-Violence/ (7 classes, including normal/fighting/shooting/riot/abuse/car accident/explosion)
-- **TMVAD**: XXXX (multimodal video, subtitles, and audio, 22 classes)
+- **XD-Violence**: [here](https://roc-ng.github.io/XD-Violence/) (7 classes, including normal/fighting/shooting/riot/abuse/car accident/explosion)
+- **TMVAD**: [here](https://pan.baidu.com/s/1LZ2Yf42tNuf150OnWeUREA?pwd=3c3d) (multimodal video, subtitles, and audio, 22 classes)
 
   The categories are organized into four groups as follows:
 
